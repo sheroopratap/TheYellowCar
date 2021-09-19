@@ -1,6 +1,7 @@
 package com.workify.order.models;
 
 import com.workify.order.constants.OrderType;
+import com.workify.order.util.RankCalculator;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
